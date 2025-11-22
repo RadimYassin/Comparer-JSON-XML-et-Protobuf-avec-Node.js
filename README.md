@@ -1,7 +1,8 @@
 
  <img width="1560" height="268" alt="Screenshot 2025-11-22 111952" src="https://github.com/user-attachments/assets/6a79c10f-e4a4-4e80-acb0-338c41a3cad8" />
 
- 
+ <img width="948" height="479" alt="image" src="https://github.com/user-attachments/assets/9be275dc-2492-4ff6-8ea2-ee7bec528abe" />
+
  # Comparaison JSON vs XML vs Protobuf avec Node.js
 
 Ce projet est un laboratoire pratique pour comparer trois formats de sérialisation de données populaires : **JSON**, **XML** et **Protocol Buffers (Protobuf)**.
@@ -72,4 +73,5 @@ Ce script lit le fichier binaire et réaffiche les données sous forme d'objet J
 - **JSON** : Format texte lisible, standard du web, taille moyenne.
 - **XML** : Format texte verbeux (balises ouvrantes/fermantes), taille la plus importante.
 - **Protobuf** : Format binaire compact, nécessite un schéma (`.proto`), taille la plus faible (très efficace pour le réseau/stockage).
+
 
